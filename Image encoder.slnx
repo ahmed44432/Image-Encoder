@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Image encoder/Image encoder.csproj" />
+  <Project Path="SimpleCrypt/SimpleCrypt.csproj" Id="921b45d4-d06b-41d2-9875-3be5f54c686b" />
+</Solution>
