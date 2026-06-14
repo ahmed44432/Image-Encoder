@@ -6,8 +6,7 @@ A modern Windows Forms desktop application built with **.NET 10** and **C#**. Th
 
 ## 📸 Screenshots
 
-![Application Interface](<img width="827" height="517" alt="Screenshot 2026-06-14 141900" src="https://github.com/user-attachments/assets/bde514c9-94d0-46b7-9ab3-d0d2c6c413e3" />
-)
+![Application Interface](https://github.com/user-attachments/assets/bde514c9-94d0-46b7-9ab3-d0d2c6c413e3)
 
 ---
 
